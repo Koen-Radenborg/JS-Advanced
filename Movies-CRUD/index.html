@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies</title>
+</head>
+
+<body>
+    <h1>Movies</h1>
+    <section id='create-movie'>
+        <form id="movie-form">
+            <label for="">Titel</label>
+            <br>
+            <input type="text" id="title" required>
+            <br><br>
+            <label for="">Jaar van uitkomst</label>
+            <br><br>
+            <input type="text" id="year" required>
+            <br><br>
+            <label for="">Afbeelding</label>
+            <br><br>
+            <input type="text" id="coverImage" required>
+            <br><br>
+            <label for="">Rating</label>
+            <br><br>
+            <input type="text" id="rating" required>
+            <br><br><br>
+            <input type="submit" value="Toevoegen">
+        </form>
+    </section>
+    <section id='movies-container'></section>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

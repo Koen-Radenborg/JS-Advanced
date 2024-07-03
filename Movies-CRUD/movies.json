@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": "3046",
+      "title": "Avatar - The Way of Water",
+      "year": "2022",
+      "img": "avatar.jpeg",
+      "rating": "76% "
+    },
+    {
+      "id": "663d",
+      "title": "BIG T",
+      "year": "1999 ",
+      "img": "BIGGETH-T.png",
+      "rating": "100%"
+    },
+    {
+      "id": "6ce8",
+      "title": "Shrek 2",
+      "year": "2004",
+      "img": "SHREK 2.jpg",
+      "rating": "89%"
+    }
+  ]
+}
