@@ -21,4 +21,4 @@ fetch(`https://dragonball-api.com/api/characters`)
         output.innerHTML = out;
     });
 
-//colors are based on Goku's outfit
+    //colors are based on Goku's outfit
