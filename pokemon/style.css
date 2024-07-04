@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI';
+}
+
+body{
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(241, 32, 32);
+}
+
+img{
+  height: 50px;
+  width: 50px;
+  margin: 0 10px 5px 0;
+  border-radius: 50px;
+}
+
+h2{
+  margin: 10px;
+}
+
+.object{
+  margin: 10px;
+  display: flex;
+  align-items: center;
+} 
+
+.mainThing{
+  background-color: rgb(125, 226, 58);
+  padding: 10px;
+  width: 400px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px 1px rgba(0,0,0,.8);
+}
