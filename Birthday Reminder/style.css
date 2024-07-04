@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI';
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 25, 236);
+}
+
+img{
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin: 0 10px 5px 0;
+    border-radius: 50px;
+}
+
+h2{
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 50px;
+    width: 95%;
+    background-color: rgb(97, 1, 97);
+    border: none;
+    color: white;
+}
+
+.object{
+    margin: 10px;
+}
+
+.mainThing{
+    background-color: rgb(71, 2, 67);
+    padding: 10px;
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 1px rgba(0,0,0,.8);
+}

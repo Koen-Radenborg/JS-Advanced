@@ -1,0 +1,37 @@
+[
+   {
+      "img": "img/Abdul.webp",
+      "name": "Abdul",
+      "age": 23 
+   }, 
+   {
+       "id": "2",
+       "img": "img/Frederik.webp",
+       "name": "Frederik",
+       "age": 33 
+    },
+    {
+       "id": "3",
+       "img": "img/Joey.webp",
+       "name": "Joey",
+       "age": 14 
+    },
+    {
+       "id": "4",
+       "img": "img/Osmal_Banonivia.webp",
+       "name": "Osmal Banonivia",
+       "age": 19
+    },
+    {
+       "id": "5",
+       "img": "img/Oss.webp",
+       "name": "Oss",
+       "age": 21
+    },
+    {
+       "id": "6",
+       "img": "img/evil_Kingsley-Ubah.webp",
+       "name": "���",
+       "age": 3492949328 
+    }
+]
